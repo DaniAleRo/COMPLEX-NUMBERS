@@ -10,5 +10,5 @@ Esta es una librería codificada en el lenguaje de Python, en el cual se desarro
 - **complex_conjugated(a)**: Calcula y retorna el conjugado de un número complejo.
 - **Cartesian_to_polar(a)**: Retorna la conversión de coordenadas cartesianas a polares.
 - **polar_to_Cartesian(a, b)**: Retorna la Conversión de coordenadas polares a cartesianas.
-- **fase(a)**: Retorna la fase cartesiana
+- **fase(a)**: Retorna la fase cartesiana.
 
